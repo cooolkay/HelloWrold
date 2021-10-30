@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Hello World2");
         System.out.println("Project Java");
         System.out.println("Project Classic");
+        System.out.println("Project Rock");
 	// write your code here
     }
 }
