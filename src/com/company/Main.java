@@ -8,6 +8,7 @@ public class Main {
         System.out.println("Project Java");
         System.out.println("Project Rock");
         System.out.println("Hello Local repository");
+    	System.out.println("Hello! Github");
 	// write your code here
     }
 }
